@@ -481,10 +481,17 @@ a#MediaFolders_anchor.jstree-anchor {
 /* 2.2.4 Others */
 /* Image Files */
 .imgLogoIcon, .adminDrawerLogo img {
+<<<<<<< HEAD
   content: url(https://raw.githubusercontent.com/marilson8/Emby/master/red.css) !important; }
 
 .lnkMediaFolder div:first-child {
   background-image: url(https://raw.githubusercontent.com/marilson8/Emby/master/red.css) !important; }
+=======
+  content: url(https://raw.githubusercontent.com/marilson8/Logos/master/M4RFLIX.png) !important; }
+
+.lnkMediaFolder div:first-child {
+  background-image: url(https://raw.githubusercontent.com/marilson8/Logos/master/M4RFLIX.png) !important; }
+>>>>>>> a1b15b558ccb657393ad206eff7669b8bd70061e
 
 /* Home */
 .background-theme-b .backgroundContainer {
