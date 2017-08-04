@@ -469,13 +469,13 @@ div.scrollContainer.smoothScrollY::-webkit-scrollbar-thumb {
 /* 2.2.2 Logos */
 /* Login Page - Home Page - Main Drawer Mobile */
 #loginPage img.imgLogoIcon, a.adminDrawerLogo.clearLink img {
-  content: url(https://cdn.rawgit.com/BenZuser/Emby-Dark-Themes-Resources/master/images/logos-and-icons/RED/logo.png) !important; }
+  content: url(https://raw.githubusercontent.com/marilson8/Logos/master/M4RFLIX.png) !important; }
 
 .pageTitleWithLogo {
-  background-image: url(https://cdn.rawgit.com/BenZuser/Emby-Dark-Themes-Resources/master/images/logos-and-icons/RED/logo.png) !important; }
+  background-image: url(https://raw.githubusercontent.com/marilson8/Logos/master/M4RFLIX.png) !important; }
 
 .pageTitleWithDefaultLogo {
-  background-image: url(https://cdn.rawgit.com/BenZuser/Emby-Dark-Themes-Resources/master/images/logos-and-icons/RED/logo.png) !important; }
+  background-image: url(https://raw.githubusercontent.com/marilson8/Logos/master/M4RFLIX.png) !important; }
 
 /* 2.2.3 Others */
 /* Dashboard Misc */
