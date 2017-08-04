@@ -481,10 +481,10 @@ a#MediaFolders_anchor.jstree-anchor {
 /* 2.2.4 Others */
 /* Image Files */
 .imgLogoIcon, .adminDrawerLogo img {
-  content: url(https://cdn.rawgit.com/BenZuser/Emby-Dark-Themes-Resources/master/images/logos-and-icons/RED/logo.png) !important; }
+  content: url(https://raw.githubusercontent.com/marilson8/Emby/master/red.css) !important; }
 
 .lnkMediaFolder div:first-child {
-  background-image: url(https://cdn.rawgit.com/BenZuser/Emby-Dark-Themes-Resources/master/images/logos-and-icons/RED/mblogoicon.png) !important; }
+  background-image: url(https://raw.githubusercontent.com/marilson8/Emby/master/red.css) !important; }
 
 /* Home */
 .background-theme-b .backgroundContainer {
